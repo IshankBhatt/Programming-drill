@@ -1,0 +1,10 @@
+a=5;
+b=6;
+print("Values Before Swapping ");
+print("a= ",a);
+print("b= ",b);
+a=a+b;
+b=a-b;
+a=a-b;
+print("Values After Swapping ");
+print(f"a = {a}  b = {b}");
